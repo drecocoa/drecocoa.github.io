@@ -1,0 +1,4 @@
+#port
+listen:5721
+root:./
+404:./404.html
